@@ -1,9 +1,9 @@
 ---
 docs_dir: docs
 edit_uri: edit/master/docs
-repo_url: https://github.com/ashattack
-site_description: A starter portfolio template
-site_name: Portfolio website
+repo_url: https://github.com/sblack4/sblack.rocks
+site_description: Sblack's public knowlegebase 
+site_name: sblack dot rocks
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
