@@ -1,9 +1,10 @@
 ---
 docs_dir: docs
 edit_uri: edit/master/docs
-repo_url: https://github.com/sblack4/sblack.rocks
+repo_url: https://github.com/sblack4/sblack4.github.io
 site_description: Sblack's public knowlegebase 
 site_name: sblack dot rocks
+site_url: https://sblack4.github.io
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
