@@ -1,0 +1,9 @@
+
+# copy this from root
+docs/README.md
+
+# pyenv
+pythonenv3.8
+
+# build. this is pushed to gh-pages
+site
