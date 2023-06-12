@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sblack4-github-io"
+version = "0.1.0"
+description = "sblack4's github pages site"
+authors = ["Steven B <genseb7@gmail.com>"]
+readme = "README.md"
+packages = [{include = "sblack4"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mdx-truly-sane-lists = "^1.3"
+mkdocs = "^1.4.3"
+mkdocs-material = "^9.1.15"
+pymdown-extensions = "^10.0.1"
+mkdocs-material-extensions = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
